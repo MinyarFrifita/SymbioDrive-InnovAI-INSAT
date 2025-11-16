@@ -134,19 +134,6 @@ Créer un système complet d’analyse et de prédiction du comportement de cond
 - Guide de structure et setup
 - Schéma base de données
 
- *En cours :
-
-+Application Flutter :
-
-Design UI/UX
-
-+Intégration capteurs
-
-+Pipeline de collecte de données temps réel
-
-+Connexion à l'API backend
-
-4/ Phase 2 : Application mobile & Intégration temps réel
 
 ### En cours
 
@@ -237,5 +224,6 @@ Design UI/UX
 - Q3 : Pipeline apprentissage continu, multi-langues
 
 - Q4 : Marketplace ML, API tierces, flotte entreprise
+
 
 
