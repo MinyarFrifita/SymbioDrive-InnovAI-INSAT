@@ -39,6 +39,7 @@ Créer un système complet d’analyse et de prédiction du comportement de cond
 ## Architecture & Stack technologique
 
 ### Architecture du système
+```text
 ┌─────────────────────────────────────────────────────────┐
 │                  Couche Client (Flutter)                │
 │      Application mobile pour conducteurs & flottes      │
@@ -62,7 +63,7 @@ Créer un système complet d’analyse et de prédiction du comportement de cond
  │ données  │  │          │  │          │
  └──────────┘  └──────────┘  └──────────┘
 
-
+```
 ### Stack technologique
 
 - Framework : FastAPI (Python)
@@ -254,3 +255,4 @@ Design UI/UX
 - Q3 : Pipeline apprentissage continu, multi-langues
 
 - Q4 : Marketplace ML, API tierces, flotte entreprise
+
