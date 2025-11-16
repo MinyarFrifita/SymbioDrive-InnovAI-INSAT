@@ -199,15 +199,7 @@ Design UI/UX
 
 - Analytique prédictive
 - Recommandations personnalisées
-*Pipeline d'apprentissage continu :
-
-+Collecte mensuelle de données
-
-+Réentraînement automatique
-
-+Versioning et suivi de performance
-
-+Monitoring de dérive des modèles
+  
 
 ### Pipeline d'apprentissage continu
 
@@ -215,16 +207,6 @@ Design UI/UX
 - Réentraînement automatique
 - Versioning et suivi de performance
 - Monitoring de dérive des modèles
-
-*Dashboard analytique :
-
-+Score de conduite en temps réel
-
-+Statistiques historiques
-
-+Prévisions et recommandations
-
-+Fonctionnalités sociales (classements, badges)
 
 ### Dashboard analytique
 
@@ -255,4 +237,5 @@ Design UI/UX
 - Q3 : Pipeline apprentissage continu, multi-langues
 
 - Q4 : Marketplace ML, API tierces, flotte entreprise
+
 
